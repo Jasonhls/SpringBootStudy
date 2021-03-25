@@ -1,2 +1,6 @@
 server:
   port: 8090
+connection:
+  username: hls
+  password: 123456
+  remoteAddress: 127.0.0.1
